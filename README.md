@@ -48,7 +48,7 @@ This is an **unsupervised learning** task to segment the data into clusters with
 
 1.  **Clone the repository**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/Ramcharan2905/wine-clustering
     cd wine-clustering-analysis
     ```
 
